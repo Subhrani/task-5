@@ -13,7 +13,7 @@ def load_model():
 model = load_model()
 
 # Mystery sentence (Hidden)
-MYSTERY_SENTENCE = "A seed does not become a tree overnight; success need patience and care bring growth."
+MYSTERY_SENTENCE = "A seed does not become a tree overnight; success need patience and care brings growth."
 
 # Leaderboard Storage
 if "leaderboard" not in st.session_state:
